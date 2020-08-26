@@ -1,0 +1,306 @@
+# depslib dependency file v1.0
+1524615308 source:c:\projet_td\desi\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bib.h"
+	"conio.h"
+
+1524508033 c:\projet_td\desi\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1524503774 c:\projet_td\desi\conio.h
+	<conio.h>
+	<windows.h>
+
+1524503774 source:c:\projet_td\desi\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1524513067 source:c:\projet_td\desi\graphisme.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1524597545 source:c:\projet_td\desi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"design.h"
+	"conio.h"
+	"graphisme.h"
+	"bib.h"
+	"design.h"
+
+1524503817 c:\projet_td\desi\design.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1524503774 c:\projet_td\desi\graphisme.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1524512803 source:c:\projet_td\desi\design.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"design.h"
+
+1524874100 source:c:\users\condor\desktop\desi\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bib.h"
+	"conio.h"
+
+1524870490 c:\users\condor\desktop\desi\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1524503774 c:\users\condor\desktop\desi\conio.h
+	<conio.h>
+	<windows.h>
+
+1524503774 source:c:\users\condor\desktop\desi\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1524512803 source:c:\users\condor\desktop\desi\design.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"design.h"
+
+1524503817 c:\users\condor\desktop\desi\design.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1524513067 source:c:\users\condor\desktop\desi\graphisme.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1524870268 source:c:\users\condor\desktop\desi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"design.h"
+	"conio.h"
+	"graphisme.h"
+	"bib.h"
+	"design.h"
+
+1524503774 c:\users\condor\desktop\desi\graphisme.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1524876174 source:c:\users\condor\desktop\desi - 1\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bib.h"
+	"conio.h"
+
+1524870490 c:\users\condor\desktop\desi - 1\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1524503774 c:\users\condor\desktop\desi - 1\conio.h
+	<conio.h>
+	<windows.h>
+
+1524503774 source:c:\users\condor\desktop\desi - 1\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1524512803 source:c:\users\condor\desktop\desi - 1\design.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"design.h"
+
+1524503817 c:\users\condor\desktop\desi - 1\design.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1524513067 source:c:\users\condor\desktop\desi - 1\graphisme.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1524875612 source:c:\users\condor\desktop\desi - 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"design.h"
+	"conio.h"
+	"graphisme.h"
+	"bib.h"
+	"design.h"
+
+1524503774 c:\users\condor\desktop\desi - 1\graphisme.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1532555642 source:c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bib.h"
+	"conio.h"
+
+1524876474 c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1524876477 c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\conio.h
+	<conio.h>
+	<windows.h>
+
+1524876476 source:c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1524876477 source:c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\design.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"design.h"
+
+1524876477 c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\design.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1524876477 source:c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\graphisme.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1524876478 source:c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"design.h"
+	"conio.h"
+	"graphisme.h"
+	"bib.h"
+	"design.h"
+
+1524876478 c:\users\lotfiabdoua\desktop\1cpi\mon tp\desi - 1\graphisme.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1532548442 source:e:\1cpi\mon tp\desi - 1\bib.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bib.h"
+	"conio.h"
+
+1524869274 e:\1cpi\mon tp\desi - 1\bib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1524869277 e:\1cpi\mon tp\desi - 1\conio.h
+	<conio.h>
+	<windows.h>
+
+1524869276 source:e:\1cpi\mon tp\desi - 1\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1524869277 source:e:\1cpi\mon tp\desi - 1\design.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"design.h"
+
+1524869277 e:\1cpi\mon tp\desi - 1\design.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+
+1542965021 source:e:\1cpi\mon tp\desi - 1\graphisme.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1524869278 source:e:\1cpi\mon tp\desi - 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"design.h"
+	"conio.h"
+	"graphisme.h"
+	"bib.h"
+	"design.h"
+
+1524869278 e:\1cpi\mon tp\desi - 1\graphisme.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
